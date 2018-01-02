@@ -1,4 +1,6 @@
 ## Components
+Common components shared among modules.
+
 ```
 |-- components
     |-- header
