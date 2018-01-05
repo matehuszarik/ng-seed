@@ -5,11 +5,12 @@ This project was generated with [angular-cli](https://github.com/angular/angular
 
 ## Usage
 - Clone or download the repo
-- Rename the project name `ngdemo` in:
+- Rename the project name `ngseed` in:
   - package.json
   - angular-cli.json
   - index.html `<title></title>`
 - Run `npm i`
+- Feel free to remove readme files
 
 ## Structure
 ```
