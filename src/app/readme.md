@@ -1,3 +1,3 @@
 ## Feature modules
 
-Place all feature models under /app folder and lazy load them in routing.
+Place all feature modules under /app folder and lazy load them in routing.
