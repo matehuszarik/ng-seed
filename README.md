@@ -1,5 +1,5 @@
 # ng-seed
-Seed project for enterprise-grade Angular applications without test files.
+Seed project for Angular (5) projects without test files.
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) `--minimal` flag. The cli is configured to not generate `.spec` files and use inline-styles where possible.
 
@@ -17,13 +17,16 @@ This project was generated with [angular-cli](https://github.com/angular/angular
 |-- node_modules
 |-- src
   |-- app
-  |-- assets
-  |-- environments
-  |-- shared
+    |-- shared
       |-- components
       |-- models
       |-- services
       |-- validators
       |-- guards
       |-- utils
+    |-- core
+      |-- services
+  |-- assets
+  |-- environments
+  
 ```
